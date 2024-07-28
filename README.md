@@ -13,8 +13,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 This is written in markdown language. 
 >
-* Click [link](https://classroom.github.com/a/urlUeIOS) to accept your assignment.
-
 
 * [Probability](probability.md)
 * [Financial Mathematics](financial_math.md)
