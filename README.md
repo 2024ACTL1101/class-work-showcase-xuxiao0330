@@ -23,9 +23,7 @@ This is written in markdown language.
 * [General Insurance](general.md)
 * [Banking and ERM](banking.md)
 * Coding Assignment: [Algorithmic Trading](algotrading.md) <- filled this
-* Coding Assignment: [CAPM Model](capm.md) <- filled this
-
-
+* [CAPM Model](capm.md) 
 
 
 ---
